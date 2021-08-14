@@ -1,5 +1,5 @@
 Software Engineering Assignment
-Contributors : Sheeraz Jatoi 2k19/CSM/81
+Contributors : Sheeraz Ali 2k19/CSM/82
              : Shaharyar Khan 2k19/CSM/80
              : Haji Ahmed     2k19/CSM/29
              
